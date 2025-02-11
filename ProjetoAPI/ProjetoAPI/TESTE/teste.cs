@@ -3,5 +3,6 @@
     public interface teste
     {
         public string Maysa { get; set; }
+        public string Lorenna { get; set; }
     }
 }
