@@ -4,5 +4,7 @@
     {
         public string Maysa { get; set; }
         public string Lorenna { get; set; }
+
+        public string Juliana { get; set; }
     }
 }
