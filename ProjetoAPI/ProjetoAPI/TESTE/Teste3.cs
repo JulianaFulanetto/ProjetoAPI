@@ -4,5 +4,6 @@
     {
         public string Dez { get; set; }
         public string Vinte { get; set; }
+        public string Trinta { get; set; }
     }
 }
