@@ -11,5 +11,7 @@ namespace ProjetoAPI
         public string? Summary { get; set; }
 
         public string? Teste { get; set; }
+
+        public string? Teste2 { get; set; }
     }
 }
