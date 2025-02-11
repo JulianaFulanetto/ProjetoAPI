@@ -10,6 +10,8 @@ namespace ProjetoAPI
 
         public string? Summary { get; set; }
 
+        public string? Teste { get; set; }
+
         public string Clima { get; set; }
     }
 }
