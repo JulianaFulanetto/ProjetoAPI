@@ -4,5 +4,6 @@
     {
         public string Roxo { get; set; }
         public string Cinza { get; set; }
+        public string Vermelho { get; set; }
     }
 }
